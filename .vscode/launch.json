@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open lab2_promise.html",
+            "file": "c:\\Users\\tanze\\OneDrive\\Documents\\comp 3123\\labs\\lab2\\lab2_promise.html"
+        }
+    ]
+}
